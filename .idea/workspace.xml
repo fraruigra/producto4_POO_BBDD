@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f412280e-4ab6-4e7f-b9c6-daac82f90431" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/grupoTeamRocket/dao/PedidoDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/grupoTeamRocket/dao/PedidoDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/grupoTeamRocket/modelo/Datos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/grupoTeamRocket/modelo/Datos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/grupoTeamRocket/mysql/MySQLPedidoDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/grupoTeamRocket/mysql/MySQLPedidoDAO.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2I5qmIYneI7LwF3ri3apEJ5eNyk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/34639/Desktop/PATRI/DAW/Acceso_a_bbdd/jdbc_mysql/mysql-connector-j-8.0.31/mysql-connector-j-8.0.31.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f412280e-4ab6-4e7f-b9c6-daac82f90431" name="Changes" comment="" />
+      <created>1669481953700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669481953700</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Primer commit. Código del PRODUCTO 2 + conexión a bbdd + estructura básica de diseño DAO">
+      <created>1669482939006</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669482939006</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Código del PRODUCTO 2 + conexión a bbdd + estructura básica de diseño DAO">
+      <created>1669483300476</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669483300476</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Estructuta implementación mysql">
+      <created>1669485789915</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669485789915</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Metodos para insertar articulos y mostrarlos desde MySQLArticuloDAO.">
+      <created>1669496451321</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669496451321</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Métodos de artículos hechos.">
+      <created>1669652922193</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669652922193</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Métodos de cliente hechos.">
+      <created>1669654171883</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669654171883</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Métodos de cliente estándar hechos.">
+      <created>1669657944071</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1669657944071</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Métodos de cliente premium hechos.">
+      <created>1669663170404</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1669663170404</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Faltan métodos eliminar hacia abajo de Pedido.">
+      <created>1669755084842</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1669755084842</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primer commit. Código del PRODUCTO 2 + conexión a bbdd + estructura básica de diseño DAO" />
+    <MESSAGE value="Código del PRODUCTO 2 + conexión a bbdd + estructura básica de diseño DAO" />
+    <MESSAGE value="Estructuta implementación mysql" />
+    <MESSAGE value="Metodos para insertar articulos y mostrarlos desde MySQLArticuloDAO." />
+    <MESSAGE value="Métodos de artículos hechos." />
+    <MESSAGE value="Métodos de cliente hechos." />
+    <MESSAGE value="Métodos de cliente estándar hechos." />
+    <MESSAGE value="Métodos de cliente premium hechos." />
+    <MESSAGE value="Faltan métodos eliminar hacia abajo de Pedido." />
+    <option name="LAST_COMMIT_MESSAGE" value="Faltan métodos eliminar hacia abajo de Pedido." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/grupoTeamRocket/mysql/MySQLClienteDAO.java</url>
+          <line>46</line>
+          <properties class="grupoTeamRocket.mysql.MySQLClienteDAO" method="insertar">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/grupoTeamRocket/mysql/MySQLClienteDAO.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Producto3$MySQLArticuloDAO.ic" NAME="MySQLArticuloDAO Coverage Results" MODIFIED="1669740058623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>grupoTeamRocket.mysql.*</FILTER>
+    </SUITE>
+  </component>
+</project>
